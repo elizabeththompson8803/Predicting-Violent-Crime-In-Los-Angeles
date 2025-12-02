@@ -18,7 +18,7 @@ This repository contains a data-driven analysis of violent and non-violent crime
 ## Repository Structure
   - Notebooks/ Notebooks for EDA, methodology and results, and statistical inference results
   - README.md Project overview
-  - Refs.bib Bibliography for the report
+  - refs.bib Bibliography for the report
 
 
 ## Usage
@@ -38,7 +38,7 @@ git clone https://github.com/elizabeththompson8803/Predicting-Violent-Crime-In-L
 
 ## References
 
-See `Refs.bib` for all citations used in the analysis.
+See `refs.bib` for all citations used in the analysis.
 
 ## Authors
 
