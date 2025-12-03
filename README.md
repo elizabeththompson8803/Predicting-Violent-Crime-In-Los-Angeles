@@ -16,6 +16,7 @@ This repository contains a data-driven analysis of violent and non-violent crime
   - Crime hotspots remain geographically stable across years, particularly in Central and South Los Angeles.  
 
 ## Repository Structure
+  - Documents/ Final Paper and Slides
   - Notebooks/ Notebooks for EDA, methodology and results, and statistical inference results
   - README.md Project overview
   - refs.bib Bibliography for the report
